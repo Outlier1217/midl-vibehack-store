@@ -1,8 +1,5 @@
 🚀 MIDL VibeHack Store - Bitcoin L2 DApp
-https://img.shields.io/badge/MIDL-VibeHack-orange
-https://img.shields.io/badge/Bitcoin-L2-yellow
-https://img.shields.io/badge/Solidity-%5E0.8.0-blue
-https://img.shields.io/badge/License-MIT-green
+
 
 📋 Overview
 A decentralized store application built on Bitcoin L2 using MIDL infrastructure. This dApp allows users to purchase products using Bitcoin Runes through Solidity smart contracts deployed on Bitcoin.
